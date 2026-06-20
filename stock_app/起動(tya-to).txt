@@ -1,2 +1,0 @@
-cd C:\Users\gyoum\Desktop\m's\株\stock_app
-streamlit run app.py
